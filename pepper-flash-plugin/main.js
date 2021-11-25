@@ -9,6 +9,7 @@ app.on('window-all-closed', function() {
 });
 
 let ppapi_flash_path;
+var lonesome_cowboy;
 
 // Specify flash path.
 // On Windows, it might be /path/to/pepflashplayer.dll
